@@ -10,6 +10,10 @@ namespace L02E06_Implementar_UML
     {
         static void Main(string[] args)
         {
+            Fornecedor empresa = new Fornecedor();
+            empresa.Cadastrar(empresa);
+
+
         }
     }
 }

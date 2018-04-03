@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace L02E06_Implementar_UML
 {
-    class Fornecedor
+    class Cliente
     {
         private int codigo;
         private String nome, endereco, bairro, cidade, uf, cep, telefone;
+        private long cpf, rg;
 
         public int Codigo
         {
@@ -36,8 +37,8 @@ namespace L02E06_Implementar_UML
             get { return cidade; }
             set { cidade = value; }
         }
-       
-            public String UF
+
+        public String UF
         {
             get { return uf; }
             set { uf = value; }
@@ -53,33 +54,28 @@ namespace L02E06_Implementar_UML
             set { telefone = value; }
         }
 
-
-        public void Cadastrar(Fornecedor fornecedor)
+        public long CPF
         {
-            Console.WriteLine("Insira os dados do fornecedor: ");
-            Console.Write("Código: ");
-            fornecedor.Codigo = int.Parse(Console.ReadLine());
-            Console.Write("Nome: ");
-            fornecedor.Nome = Console.ReadLine();
-            Console.Write("Endereço (Rua, nº): ");
-            fornecedor.Endereco = Console.ReadLine();
-            Console.Write("Bairro: ");
-            fornecedor.Bairro = Console.ReadLine();
-            Console.Write("Cidade: ");
-            fornecedor.Cidade = Console.ReadLine();
-            Console.Write("UF: ");
-            fornecedor.UF = Console.ReadLine();
-            Console.Write("CEP: ");
-            fornecedor.CEP = Console.ReadLine();
-            Console.Write("Telefone: ");
-            fornecedor.Telefone = Console.ReadLine();
-            
+            get { return cpf; }
+            set { cpf = value > 0 ? value : 0; /*melhorar validação*/}
+        }
+        public long RG
+        {
+            get { return rg; }
+            set { rg = value > 0 ? value : 0; /*melhorar validação*/}
         }
 
-        public void Editar(Fornecedor fornecedor)
-        {
 
+        public void Cadastrar (Cliente cliente)
+        {
+            //código de cadastro aqui
         }
 
+        public void Editar(Cliente cliente)
+        {
+            //código de edição aqui
+        }
+
+       
     }
 }
