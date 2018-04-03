@@ -1,0 +1,7 @@
+C:\Users\eleut\source\repos\L1E05 Notas\L1E05 Notas\bin\Debug\L1E05 Notas.exe.config
+C:\Users\eleut\source\repos\L1E05 Notas\L1E05 Notas\bin\Debug\L1E05 Notas.exe
+C:\Users\eleut\source\repos\L1E05 Notas\L1E05 Notas\bin\Debug\L1E05 Notas.pdb
+C:\Users\eleut\source\repos\L1E05 Notas\L1E05 Notas\obj\Debug\L1E05 Notas.csprojResolveAssemblyReference.cache
+C:\Users\eleut\source\repos\L1E05 Notas\L1E05 Notas\obj\Debug\L1E05 Notas.csproj.CoreCompileInputs.cache
+C:\Users\eleut\source\repos\L1E05 Notas\L1E05 Notas\obj\Debug\L1E05 Notas.exe
+C:\Users\eleut\source\repos\L1E05 Notas\L1E05 Notas\obj\Debug\L1E05 Notas.pdb

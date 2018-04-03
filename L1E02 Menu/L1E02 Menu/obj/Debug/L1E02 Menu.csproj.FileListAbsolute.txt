@@ -1,0 +1,7 @@
+C:\Users\eleut\source\repos\L1E02 Menu\L1E02 Menu\bin\Debug\L1E02 Menu.exe.config
+C:\Users\eleut\source\repos\L1E02 Menu\L1E02 Menu\bin\Debug\L1E02 Menu.exe
+C:\Users\eleut\source\repos\L1E02 Menu\L1E02 Menu\bin\Debug\L1E02 Menu.pdb
+C:\Users\eleut\source\repos\L1E02 Menu\L1E02 Menu\obj\Debug\L1E02 Menu.csprojResolveAssemblyReference.cache
+C:\Users\eleut\source\repos\L1E02 Menu\L1E02 Menu\obj\Debug\L1E02 Menu.csproj.CoreCompileInputs.cache
+C:\Users\eleut\source\repos\L1E02 Menu\L1E02 Menu\obj\Debug\L1E02 Menu.exe
+C:\Users\eleut\source\repos\L1E02 Menu\L1E02 Menu\obj\Debug\L1E02 Menu.pdb
