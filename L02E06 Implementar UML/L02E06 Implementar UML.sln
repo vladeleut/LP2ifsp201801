@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02E06 Implementar UML", "L02E06 Implementar UML\L02E06 Implementar UML.csproj", "{22B0FA48-24C1-45D2-B472-0C3E17D4234C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B0FA48-24C1-45D2-B472-0C3E17D4234C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B0FA48-24C1-45D2-B472-0C3E17D4234C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B0FA48-24C1-45D2-B472-0C3E17D4234C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B0FA48-24C1-45D2-B472-0C3E17D4234C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D5CC161-D313-478C-A6EA-FE6314B4A061}
+	EndGlobalSection
+EndGlobal
