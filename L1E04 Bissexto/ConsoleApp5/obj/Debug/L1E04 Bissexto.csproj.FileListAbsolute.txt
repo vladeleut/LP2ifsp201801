@@ -1,0 +1,14 @@
+C:\Users\eleut\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\eleut\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\eleut\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\eleut\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\L1E04 Bissexto.csprojResolveAssemblyReference.cache
+C:\Users\eleut\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\L1E04 Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\eleut\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\eleut\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\eleut\source\repos\L1E04 Bissexto\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\eleut\source\repos\L1E04 Bissexto\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\eleut\source\repos\L1E04 Bissexto\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\eleut\source\repos\L1E04 Bissexto\ConsoleApp5\obj\Debug\L1E04 Bissexto.csprojResolveAssemblyReference.cache
+C:\Users\eleut\source\repos\L1E04 Bissexto\ConsoleApp5\obj\Debug\L1E04 Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\eleut\source\repos\L1E04 Bissexto\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\eleut\source\repos\L1E04 Bissexto\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

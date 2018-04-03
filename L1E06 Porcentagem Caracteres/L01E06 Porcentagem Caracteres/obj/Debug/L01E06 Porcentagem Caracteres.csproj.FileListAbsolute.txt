@@ -1,0 +1,7 @@
+C:\Users\eleut\source\repos\L01E06 Porcentagem Caracteres\L01E06 Porcentagem Caracteres\bin\Debug\L01E06 Porcentagem Caracteres.exe.config
+C:\Users\eleut\source\repos\L01E06 Porcentagem Caracteres\L01E06 Porcentagem Caracteres\bin\Debug\L01E06 Porcentagem Caracteres.exe
+C:\Users\eleut\source\repos\L01E06 Porcentagem Caracteres\L01E06 Porcentagem Caracteres\bin\Debug\L01E06 Porcentagem Caracteres.pdb
+C:\Users\eleut\source\repos\L01E06 Porcentagem Caracteres\L01E06 Porcentagem Caracteres\obj\Debug\L01E06 Porcentagem Caracteres.csprojResolveAssemblyReference.cache
+C:\Users\eleut\source\repos\L01E06 Porcentagem Caracteres\L01E06 Porcentagem Caracteres\obj\Debug\L01E06 Porcentagem Caracteres.csproj.CoreCompileInputs.cache
+C:\Users\eleut\source\repos\L01E06 Porcentagem Caracteres\L01E06 Porcentagem Caracteres\obj\Debug\L01E06 Porcentagem Caracteres.exe
+C:\Users\eleut\source\repos\L01E06 Porcentagem Caracteres\L01E06 Porcentagem Caracteres\obj\Debug\L01E06 Porcentagem Caracteres.pdb
