@@ -27,6 +27,7 @@ namespace ExercicioAulaBD
                 conn.Open();
 
             string sql = "insert into aluno(nome, cpf) values ('" + txtNome.Text + "'," + txtCPF.Text + ")";
+
             MySqlCommand cmd = new MySqlCommand(sql, conn);
             cmd.ExecuteNonQuery();
 
