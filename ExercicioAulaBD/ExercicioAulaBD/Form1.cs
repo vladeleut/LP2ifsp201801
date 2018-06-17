@@ -34,5 +34,12 @@ namespace ExercicioAulaBD
             conn.Clone();
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // TODO: esta linha de código carrega dados na tabela 'aulaDataSet.aluno'. Você pode movê-la ou removê-la conforme necessário.
+            this.alunoTableAdapter.Fill(this.aulaDataSet.aluno);
+
+        }
     }
 }
